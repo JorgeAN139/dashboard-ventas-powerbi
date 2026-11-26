@@ -46,7 +46,6 @@ CALCULATE(
 | Archivo | Descripción |
 |---|---|
 | `acevesnavarrojorge_a4.pbix` | Informe de Power BI (se abre con Power BI Desktop) |
-| `acevesnavarrojorge_a4.pdf` | Memoria con la explicación de cada pregunta y las medidas |
 | `Ventas.xls` | Datos de ventas |
 | `dashboard.png` | Captura del dashboard |
 
